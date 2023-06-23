@@ -2,5 +2,5 @@
     "board": "arduino:avr:uno",
     "programmer": "avrispmkii",
     "port": "COM3",
-    "sketch": "Switch\\Switch.ino"
+    "sketch": "Blinking_LED\\Blinking_LED.ino"
 }
