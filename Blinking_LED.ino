@@ -9,8 +9,8 @@ void setup()
 void loop()
 {
   // put your main code here, to run repeatedly:
+  digitalWrite(LED, HIGH);
+  delay(100);
   digitalWrite(LED, LOW);
-  delay(500);
-  digitalWrite(LED, LOW);
-  delay(500);
+  delay(100);
 }
