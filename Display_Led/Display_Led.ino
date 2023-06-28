@@ -1,3 +1,5 @@
+#include <LiquidCrystal_I2C.h>
+#include <Wire.h>
 /*
 const int LED = 13; defines a constant named LED that is equal to 13. This means that the value of LED will always be 13, and it cannot be changed.
 
@@ -25,8 +27,6 @@ else { This line is executed if the value of the BUTTON pin is not HIGH.
 
 digitalWrite(LED, LOW); This line turns off the LED.
 */
-#include <LiquidCrystal_I2C.h>
-#include <Wire.h>
 
 // This code defines a LED connected to pin 13 and a button connected to pin 7.
 const int LED = 13;
