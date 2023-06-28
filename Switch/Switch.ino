@@ -1,7 +1,3 @@
-#include <Wire.h>
-
-#include <LiquidCrystal_I2C.h>
-
 /*
 const int LED = 13; defines a constant named LED that is equal to 13. This means that the value of LED will always be 13, and it cannot be changed.
 
